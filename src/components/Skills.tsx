@@ -42,7 +42,7 @@ const Skills = () => {
         { name: "Data Structures", description: "Algorithms & optimization" },
         { name: "OOP", description: "Object-oriented programming" },
         { name: "SQL", description: "Database management" },
-        { name: "OpenCV", description: "Computer vision projects" }
+        { name: "Java", description: "Programming Language" }
       ]
     }
   ];

@@ -10,7 +10,7 @@ const Projects = () => {
       description: "A real-time computer vision system that detects and tracks vehicles using Python and OpenCV. Implemented grayscale conversion, noise filtering, bounding box drawing, and vehicle counting for traffic analysis.",
       image: "vehicle detection.png",
       technologies: ["Python", "OpenCV", "Computer Vision", "Image Processing"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/DilipChaitanya-27/vehical-detection-opencv",
       
     },
     {
@@ -18,7 +18,7 @@ const Projects = () => {
       description: "A comprehensive web-based healthcare management system facilitating communication between patients, doctors, and admins. Features include secure login, role-based dashboards, real-time appointments, and record tracking.",
       image: "healthcare.webp",
       technologies: ["Web Development", "Healthcare", "Database", "Real-time"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/DilipChaitanya-27/Health-Care-Connect",
       
     },
     {
@@ -26,7 +26,7 @@ const Projects = () => {
       description: "A machine learning pipeline to classify movie reviews into positive, negative, or neutral categories. Applied tokenization, stopword removal, stemming, TF-IDF, and trained models like Logistic Regression, SVM, and Random Forest. Achieved over 90% accuracy.",
       image: "sentimental.png",
       technologies: ["Machine Learning", "NLP", "Python", "TF-IDF", "SVM"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/DilipChaitanya-27/Sentiment-Analysis-on-Movie-Reviews",
      
     },
     {
@@ -34,7 +34,7 @@ const Projects = () => {
       description: "A classic Snake Game developed using Java and Swing. Features include increasing speed levels, pause/resume functionality, score tracking, and sound effects using javax.sound.sampled.",
       image: "snake.jpg",
       technologies: ["Java", "Swing", "Game Development", "Sound Effects"],
-      githubUrl: "#",
+      githubUrl: "https://github.com/DilipChaitanya-27/Snake-Game",
       
     }
   ];
